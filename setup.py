@@ -27,7 +27,7 @@ requires = [
     'python-dateutil>=2.1,<3.0.0',  # use the same range that 'botocore' uses
     'requests>=2.20.1,<=2.24',
     'setuptools >= 20.0',
-    'semantic_version == 2.5.0',
+    'semantic_version >= 2.6.0',
     'six>=1.12.0,<=1.15.0',
     'termcolor == 1.1.0',
     'wcwidth>=0.1.7,<0.2.0',
